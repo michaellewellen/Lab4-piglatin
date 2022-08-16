@@ -1,2 +1,2 @@
-# Lab4-piglatin
+# Lab 5-piglatin/encrypter
 Please read the full instructions on Canvas
